@@ -43,6 +43,17 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - How quickly can you respond to security issues in the code or dependencies?
 - Are all developers allowed to have local admin access of their computers?
 
+# Behavioural
+
+- Tell me about a time that you made a decision to improve code quality or architecture at the expense of a deadline.
+- Tell me about a time that you invested resources into an engineer's technical development even though there would be no immediate, short term benefit to the company.
+- Do engineers have access to safari books?
+- Did you sponsor any conference passes/ training?
+- Will I be working with anyone who is remote, or who works from home on a regular basis?
+- How responsive are people to emails/Slack over the weekends and after 6pm?
+- Did any of your senior engineers start out as junior engineers here?
+
+
 # The Team
 
 - How is the work organised?
